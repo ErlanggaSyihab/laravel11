@@ -7,7 +7,7 @@
     </a>
 </p>
 
-# 🗑 Proyek E-Wastepas
+#  Pembangunan Aplikasi Inventaris barang Berbasis Web di Mall Pelayanan Publik Kota Bandung
 
 Proyek ini bertujuan untuk membangun aplikasi web pengelolaan limbah elektronik (*e-waste) menggunakan **Laravel* untuk backend dan *TailwindCSS* untuk frontend. Aplikasi ini memungkinkan pengguna untuk mengajukan permintaan daur ulang dan melacak status pembuangan limbah elektronik mereka.
 
@@ -58,7 +58,7 @@ Referensi tambahan mengenai convention di Laravel:
 
 ## 📂 Alat & Sumber Daya
 
-Unduh alat yang diperlukan melalui [link Google Drive ini](https://drive.google.com/drive/u/2/folders/1vTMnaYzjjx-OneLvWd6MSWwhzj2SkoRr).
+Unduh alat yang diperlukan melalui [link Google Drive ini]().
 
 ---
 
@@ -108,7 +108,7 @@ bash
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=ewaste
+DB_DATABASE=dataku
 DB_USERNAME=root
 DB_PASSWORD=
 
@@ -211,4 +211,4 @@ git push origin nama-branch
 
 ---
 
-Last Edited 31/10/24 @e-waste-ppl-b
+Last Edited 05/08/2024 Adan Ahmad Erlangga
